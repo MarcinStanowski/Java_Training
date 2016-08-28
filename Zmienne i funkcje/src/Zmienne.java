@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Lenovo
+ * @author Lenovo		nowa rewizja
  *
  */
 public class Zmienne {
